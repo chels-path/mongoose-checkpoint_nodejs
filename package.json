@@ -1,0 +1,14 @@
+{
+  "name": "mongoose-mongodb-checkpoint",
+  "version": "1.0.0",
+  "description": "Mongoose and MongoDB checkpoint",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "mongoose": "^7.5.0",
+    "dotenv": "^16.3.1"
+  }
+}
